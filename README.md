@@ -6,6 +6,7 @@ aws s3 presigned url(PUT)のsample code
 
 1. direnvをインストールしておく
 2. main.goのバケット名、ファイル名は適宜修正しておく
+3. 実行するアカウントには対象bucketに対し、PutObjectの権限を付与しておく
 
 # How to use
 
